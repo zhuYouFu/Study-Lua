@@ -1,0 +1,4 @@
+中文参考手册：https://www.runoob.com/manual/lua53doc/manual.html
+入门视频：https://edu.csdn.net/course/detail/27086
+Lua官网：https://www.lua.org
+Windows版本Lua：http://luaforge.net/projects/luaforwindows/
